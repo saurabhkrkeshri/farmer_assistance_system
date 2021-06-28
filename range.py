@@ -1,0 +1,14 @@
+min_N = 60
+max_N = 99
+min_K = 16
+max_K = 45
+min_P = 35
+max_P = 60
+min_temp = 20.045
+max_temp = 26.929
+min_moisture = 63.69
+min_moisture = 84.96
+min_ph = 5.005
+max_ph = 7.86
+min_rainfall = 66.72
+max_rainfall = 298
